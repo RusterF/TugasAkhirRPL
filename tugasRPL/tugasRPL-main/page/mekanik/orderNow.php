@@ -31,12 +31,6 @@ if (empty($_SESSION["id"])) {
             </div>
             <ul class="sidebar-nav">
                 <li class="sidebar-item">
-                    <a href="./dashboard.php" class="sidebar-link">
-                        <i class="lni lni-home"></i>
-                        <span>Dashboard</span>
-                    </a>
-                </li>
-                <li class="sidebar-item">
                     <a href="./orderNow.php" class="sidebar-link">
                         <i class="lni lni-book"></i>
                         <span>Pemesanan Sekarang</span>
